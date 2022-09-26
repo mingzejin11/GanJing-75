@@ -36,7 +36,7 @@
   (pad "" np_thru_hole circle (at 5.08 0) (size 1.7 1.7) (drill 1.7) (layers *.Cu *.Mask) (tstamp f5124bec-661d-47c9-97ab-7d2eb644b794))
   (pad "1" thru_hole circle (at 2.54 -5.08) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask) (tstamp 875efd5e-f224-4faa-aec1-34f9c9d43265))
   (pad "2" thru_hole circle (at -3.81 -2.54) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask) (tstamp e41afb31-77f2-4678-af70-8fe2d6b174db))
-  (model "C:/Users/Salmata Barrie/Documents/GanJing-65-2.0/PCB/Components/GanJing_components.3dshapes/Stabilizer_Cherry_MX_2.00u.wrl"
+  (model "C:/Users/Mingze/Documents/Keyboards/GanJing-75/PCB/Components/GanJing_components.pretty/Stabilizer_Cherry_MX_2.00u.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

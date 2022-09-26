@@ -30,7 +30,7 @@
   (pad "C" thru_hole circle (at 0 7.5 90) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp b7cbafbe-5df1-4239-84b2-f0ad9c9f9137))
   (pad "S1" thru_hole circle (at 2.5 -7 90) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp b3a83da8-5e35-4f38-8152-0fd05794c638))
   (pad "S2" thru_hole circle (at -2.5 -7 90) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 3f21b8c1-93a6-4284-b547-e2919780eb51))
-  (model "C:/Users/Salmata Barrie/Documents/GanJing-65-2.0/PCB/Components/GanJing_components.3dshapes/EC11-THT-20F-thread-green.step"
+  (model "C:/Users/Mingze/Documents/Keyboards/GanJing-75/PCB/Components/GanJing_components.pretty/EC11_Rotary_Encoder_Switched.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

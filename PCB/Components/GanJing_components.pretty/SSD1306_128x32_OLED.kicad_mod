@@ -24,7 +24,7 @@
   (pad "2" thru_hole circle (at 1.27 17.5 90) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 69a265d9-4fbb-4c5b-906f-d14aea665d93))
   (pad "3" thru_hole circle (at -1.27 17.5 90) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 65100e81-4680-4779-b64b-5b5714d1ddeb))
   (pad "4" thru_hole circle (at -3.81 17.5 90) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp fe2ce323-0c65-4cee-86e5-df8495b0baab))
-  (model "C:/Users/Salmata Barrie/Documents/GanJing-65-2.0/PCB/Components/GanJing_components.3dshapes/OLED_Display_128x32.stp"
+  (model "C:/Users/Mingze/Documents/Keyboards/GanJing-75/PCB/Components/GanJing_components.pretty/OLED_Display_128x32.stp"
     (offset (xyz 0 0 5.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

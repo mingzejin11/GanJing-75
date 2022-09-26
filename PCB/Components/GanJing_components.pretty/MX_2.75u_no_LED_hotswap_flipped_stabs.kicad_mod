@@ -55,12 +55,12 @@
   (pad "" np_thru_hole circle (at 11.9 7 180) (size 4.05 4.05) (drill 3.05) (layers F&B.Cu "B.Mask") (tstamp e6fd2aca-32a5-4121-972f-6f61694aa44a))
   (pad "1" smd rect (at 5.842 -5.08) (size 2.55 2.5) (layers "B.Cu" "B.Mask") (tstamp 8a8db4da-2fab-4e4c-8b58-9700033bfb1e))
   (pad "2" smd rect (at -7.085 -2.54) (size 2.55 2.5) (layers "B.Cu" "B.Mask") (tstamp 073734cc-78c2-4e10-993a-359bb018c09b))
-  (model "C:/Users/Salmata Barrie/Documents/GanJing-65-2.0/PCB/Components/GanJing_components.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+  (model "C:/Users/Mingze/Documents/Keyboards/GanJing-75/PCB/Components/GanJing_components.pretty/SW_Hotswap_Kailh_MX.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "C:/Users/Salmata Barrie/Documents/GanJing-65-2.0/PCB/Components/GanJing_components.3dshapes/Stabilizer_Cherry_MX_2.00u.wrl"
+  (model "C:/Users/Mingze/Documents/Keyboards/GanJing-75/PCB/Components/GanJing_components.pretty/Stabilizer_Cherry_MX_2.00u.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -180))

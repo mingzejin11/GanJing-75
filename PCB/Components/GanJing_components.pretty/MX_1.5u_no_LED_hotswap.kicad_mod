@@ -47,7 +47,7 @@
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask) (tstamp d3aaa9b4-6a53-4a45-aaab-1ab005e2e2f6))
   (pad "1" smd rect (at 5.842 -5.08) (size 2.55 2.5) (layers "B.Cu" "B.Mask") (tstamp ac8050d8-27d5-40d9-9677-c7315a9b2007))
   (pad "2" smd rect (at -7.085 -2.54) (size 2.55 2.5) (layers "B.Cu" "B.Mask") (tstamp f9c9b36f-73b3-490c-9c8e-011d56442582))
-  (model "C:/Users/Salmata Barrie/Documents/GanJing-65-2.0/PCB/Components/GanJing_components.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+  (model "C:/Users/Mingze/Documents/Keyboards/GanJing-75/PCB/Components/GanJing_components.pretty/SW_Hotswap_Kailh_MX.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
